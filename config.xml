@@ -1,0 +1,12 @@
+<acceso-web>
+   <restService>
+     <app>
+         <id>rest.api</id>
+     </app>
+     <host>http://localhost:8085/</host>
+     <authentication>
+	      <user>admin</user>
+	      <pass>@@admin@@</pass>
+     </authentication>
+   </restService>
+</acceso-web>
